@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Ahlulbayt TV" tvg-id="" tvg-logo="https://i.imgur.com/obju1IF.png" group-title="ISLAM",Ahlulbayt TV https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al-Dua" tvg-id="" tvg-logo="https://i.imgur.com/qlfjzN1.png" group-title="ISLAM",Al-Dua https://live.ishiacloud.com/W67H7ddMzVHyXPrG.m3u8
+
+#EXTINF:-1 tvg-name="Al-Istiqama" tvg-id="" tvg-logo="https://i.imgur.com/jeuSZGn.png" group-title="ISLAM",Al-Istiqama http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+
+#EXTINF:-1 tvg-name="Al-Maali" tvg-id="" tvg-logo="https://i.imgur.com/l7zer94.png" group-title="ISLAM",Al-Maali https://video1.getstreamhosting.com:1936/8484_1/8484_1/chunklist_w2110994107.m3u8
+
+#EXTINF:-1 tvg-name="Al-Maaref" tvg-id="" tvg-logo="https://i.imgur.com/M2LIZ99.png" group-title="ISLAM",Al-Maaref https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al-Nada" tvg-id="" tvg-logo="https://i.imgur.com/9SzZ3TU.jpg" group-title="ISLAM",Al-Nada https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al-Qamar" tvg-id="" tvg-logo="https://i.imgur.com/dN7MgBJ.png" group-title="ISLAM",Al-Qamar https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al-Sunnah Al-Nabawiyah" tvg-id="" tvg-logo="https://i.imgur.com/NEDA4Sp.png" group-title="ISLAM",Al-Sunnah Al-Nabawiyah https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=5-mp4a_97200=2.m3u8
+
+#EXTINF:-1 tvg-name="Al-Thaqalayn" tvg-id="" tvg-logo="https://i.imgur.com/qlfjzN1.png" group-title="ISLAM",Al-Thaqalayn https://live.thaqalayn.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="Al-Wilayah" tvg-id="" tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="ISLAM",Al-Wilayah https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8
+
+#EXTINF:-1 tvg-name="Assadissa" tvg-id="" tvg-logo="https://i.imgur.com/0ex0bOK.png" group-title="ISLAM",Assadissa https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-name="Diyanet TV" tvg-id="" tvg-logo="https://i.imgur.com/04hvDeT.png" group-title="ISLAM",Diyanet TV https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Iqraa" tvg-id="" tvg-logo="https://i.imgur.com/dxzppyl.png" group-title="ISLAM",Iqraa https://iqraac.cdn.mgmlcdn.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lalegül TV" tvg-id="" tvg-logo="https://i.imgur.com/PcQwwUi.png" group-title="ISLAM",Lalegül TV http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-name="Makkah" tvg-id="" tvg-logo="https://i.imgur.com/ewjm3wM.png" group-title="ISLAM",Makkah http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w966623075.m3u8
+
+#EXTINF:-1 tvg-name="Rehber TV" tvg-id="" tvg-logo="https://i.imgur.com/w2dSVJY.png" group-title="ISLAM",Rehber TV https://yayin.haber100.com/P871000884/rehbertv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wesal Haq" tvg-id="" tvg-logo="https://i.imgur.com/tnZOH7y.png" group-title="ISLAM",Wesal Haq https://stream.holol.com/w/whaq_360p/playlist.m3u8
