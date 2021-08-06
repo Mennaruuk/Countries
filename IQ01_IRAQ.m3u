@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Al-Hurra Iraq" tvg-id="" tvg-logo="https://i.imgur.com/mXBZEQP.png" group-title="IRAQ",Al-Hurra Iraq https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/master_2596.m3u8
+
+#EXTINF:-1 tvg-name="Al-Hurra" tvg-id="" tvg-logo="https://i.imgur.com/0izeu5z.png" group-title="IRAQ",Al-Hurra https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/master_2596.m3u8
+
+#EXTINF:-1 tvg-name="Al-Iraqiya News" tvg-id="" tvg-logo="https://i.imgur.com/T8k3viq.png" group-title="IRAQ",Al-Iraqiya News https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al-Iraqiya" tvg-id="" tvg-logo="https://i.imgur.com/imdV6kL.png" group-title="IRAQ",Al-Iraqiya https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al-Rafidain" tvg-id="" tvg-logo="https://i.imgur.com/D78qG91.png" group-title="IRAQ",Al-Rafidain https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al-Rasheed" tvg-id="" tvg-logo="https://i.imgur.com/SU9HbXY.png" group-title="IRAQ",Al-Rasheed https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Al-Sharqiya News" tvg-id="" tvg-logo="https://i.imgur.com/P6p17ZY.jpg" group-title="IRAQ",Al-Sharqiya News https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w449457930.m3u8
+
+#EXTINF:-1 tvg-name="Al-Sharqiya" tvg-id="" tvg-logo="https://i.imgur.com/bPYyXNf.png" group-title="IRAQ",Al-Sharqiya https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1408191520.m3u8
+
+#EXTINF:-1 tvg-name="Dijlah Tarab" tvg-id="" tvg-logo="https://i.imgur.com/x1urRWw.png" group-title="IRAQ",Dijlah Tarab https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Dijlah TV" tvg-id="" tvg-logo="https://i.imgur.com/FJEeYiz.png" group-title="IRAQ",Dijlah TV https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="iNEWS" tvg-id="" tvg-logo="https://i.imgur.com/PeuBkaH.png" group-title="IRAQ",iNEWS https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Iraq Future" tvg-id="" tvg-logo="https://i.imgur.com/Z7woTe5.png" group-title="IRAQ",Iraq Future https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/chunklist_w125001985_b900000.m3u8
+
+#EXTINF:-1 tvg-name="Turkmeneli TV" tvg-id="" tvg-logo="NEED" group-title="IRAQ",Turkmeneli TV https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zagros TV" tvg-id="" tvg-logo="https://i.imgur.com/UjIuIQX.png" group-title="IRAQ",Zagros TV https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w1543346231_b1700000_sleng_t64MTA4MHA=.m3u8
